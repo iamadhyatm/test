@@ -101,3 +101,4 @@ let person2 = new person("adyy", "jain", 25);
 console.log(person1)
 console.log(person2.breath)
 console.log(creature1)
+console.log(object)
